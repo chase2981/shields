@@ -28,7 +28,7 @@
     "escape-string-regexp": "^1.0.5",
     "gm": "^1.23.0",
     "json-autosave": "~1.1.2",
-    "jsonpath": "~1.0.0",
+    "jsonpath": "~1.0.1",
     "lodash.countby": "^4.6.0",
     "lodash.mapkeys": "^4.6.0",
     "lodash.throttle": "^4.1.1",
